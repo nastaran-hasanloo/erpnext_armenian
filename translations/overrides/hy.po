@@ -1,0 +1,267 @@
+#
+msgid ""
+msgstr ""
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ERPNext v16 setup wizard (erpnext/public/js/setup_wizard.js): Select option
+#. not wrapped in __(), not in upstream POT
+msgid "Manufacturing"
+msgstr "Արտադրություն"
+
+#. ERPNext v16 setup wizard (erpnext/public/js/setup_wizard.js): Select option
+#. not wrapped in __(), not in upstream POT
+msgid "Retail"
+msgstr "Մանրածախ առևտուր"
+
+#. ERPNext v16 setup wizard (erpnext/public/js/setup_wizard.js): Select option
+#. not wrapped in __(), not in upstream POT
+msgid "Wholesale / Distribution"
+msgstr "Մեծածախ առևտուր / Բաշխում"
+
+#. ERPNext v16 setup wizard (erpnext/public/js/setup_wizard.js): Select option
+#. not wrapped in __(), not in upstream POT
+msgid "E-commerce"
+msgstr "Էլեկտրոնային առևտուր"
+
+#. ERPNext v16 setup wizard (erpnext/public/js/setup_wizard.js): Select option
+#. not wrapped in __(), not in upstream POT
+msgid "Services / Consulting"
+msgstr "Ծառայություններ / Խորհրդատվություն"
+
+#. ERPNext v16 setup wizard (erpnext/public/js/setup_wizard.js): Select option
+#. not wrapped in __(), not in upstream POT
+msgid "Construction / Real Estate"
+msgstr "Շինարարություն / Անշարժ գույք"
+
+#. ERPNext v16 setup wizard (erpnext/public/js/setup_wizard.js): Select option
+#. not wrapped in __(), not in upstream POT
+msgid "Technology / Software"
+msgstr "Տեխնոլոգիաներ / Ծրագրային ապահովում"
+
+#. ERPNext v16 setup wizard (erpnext/public/js/setup_wizard.js): Select option
+#. not wrapped in __(), not in upstream POT
+msgid "Healthcare"
+msgstr "Առողջապահություն"
+
+#. ERPNext v16 setup wizard (erpnext/public/js/setup_wizard.js): Select option
+#. not wrapped in __(), not in upstream POT
+msgid "Education"
+msgstr "Կրթություն"
+
+#. ERPNext v16 setup wizard (erpnext/public/js/setup_wizard.js): Select option
+#. not wrapped in __(), not in upstream POT
+msgid "Agriculture"
+msgstr "Գյուղատնտեսություն"
+
+#. ERPNext v16 setup wizard (erpnext/public/js/setup_wizard.js): Select option
+#. not wrapped in __(), not in upstream POT
+msgid "Food & Beverage"
+msgstr "Սնունդ և ըմպելիքներ"
+
+#. ERPNext v16 setup wizard (erpnext/public/js/setup_wizard.js): Select option
+#. not wrapped in __(), not in upstream POT
+msgid "Non Profit"
+msgstr "Ոչ առևտրային կազմակերպություն"
+
+#. ERPNext v16 setup wizard (erpnext/public/js/setup_wizard.js): Select option
+#. not wrapped in __(), not in upstream POT
+msgid "Other"
+msgstr "Այլ"
+
+#. ERPNext v16 setup wizard (erpnext/public/js/setup_wizard.js): Select option
+#. not wrapped in __(), not in upstream POT
+msgid "My own business"
+msgstr "Իմ սեփական բիզնեսը"
+
+#. ERPNext v16 setup wizard (erpnext/public/js/setup_wizard.js): Select option
+#. not wrapped in __(), not in upstream POT
+msgid "A company I work for"
+msgstr "Ընկերություն, որտեղ աշխատում եմ"
+
+#. ERPNext v16 setup wizard (erpnext/public/js/setup_wizard.js): Select option
+#. not wrapped in __(), not in upstream POT
+msgid "A client I'm consulting for"
+msgstr "Հաճախորդ, որին խորհրդատվություն եմ տրամադրում"
+
+#. ERPNext v16 setup wizard (erpnext/public/js/setup_wizard.js): Select option
+#. not wrapped in __(), not in upstream POT
+msgid "201–1,000"
+msgstr "201–1 000"
+
+#. ERPNext v16 setup wizard (erpnext/public/js/setup_wizard.js): Select option
+#. not wrapped in __(), not in upstream POT
+msgid "1,000+"
+msgstr "1 000+"
+
+#. ERPNext v16 setup wizard (erpnext/public/js/setup_wizard.js): Select option
+#. not wrapped in __(), not in upstream POT
+msgid "Excel / Spreadsheets"
+msgstr "Excel / Էլեկտրոնային աղյուսակներ"
+
+#. ERPNext v16 setup wizard (erpnext/public/js/setup_wizard.js): Select option
+#. not wrapped in __(), not in upstream POT
+msgid "Nothing yet - starting fresh"
+msgstr "Դեռ ոչինչ՝ սկսում եմ զրոյից"
+
+#. ERPNext v16 home dashboard chart description (not in upstream POT)
+msgid "Your income and expenses over the year, and what's left as profit."
+msgstr "Ձեր տարեկան եկամուտներն ու ծախսերը, և այն, ինչ մնում է որպես շահույթ։"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Chart of Accounts"
+msgstr "Հաշվային պլան"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Add Employee"
+msgstr "Ավելացնել աշխատակից"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Open Expenses"
+msgstr "Բացել ծախսերը"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Open Leaves"
+msgstr "Բացել արձակուրդները"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Open Payroll"
+msgstr "Բացել աշխատավարձը"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Open Performance"
+msgstr "Բացել կատարողականը"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Open Recruitment"
+msgstr "Բացել աշխատանքի ընդունումը"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Open Shift & Attendance"
+msgstr "Բացել հերթափոխն ու ներկայությունը"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Open Tax & Benefits"
+msgstr "Բացել հարկերն ու արտոնությունները"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Open Tenure"
+msgstr "Բացել աշխատանքային ստաժը"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Approve an expense claim and pay the employee back."
+msgstr "Հաստատեք ծախսերի հայտը և փոխհատուցեք աշխատակցին։"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Build a salary structure, assign it and run payroll."
+msgstr ""
+"Ստեղծեք աշխատավարձի կառուցվածք, նշանակեք այն և կատարեք աշխատավարձի հաշվարկ։"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Define a shift, put an employee on it and mark their attendance."
+msgstr "Սահմանեք հերթափոխ, նշանակեք աշխատակցին և նշեք նրա ներկայությունը։"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Open a job, add an applicant and make them an offer."
+msgstr ""
+"Բացեք թափուր աշխատատեղ, ավելացրեք թեկնածու և ուղարկեք աշխատանքի առաջարկ։"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid ""
+"Set the payroll period and tax slabs, and record what employees declare."
+msgstr ""
+"Սահմանեք աշխատավարձի ժամանակաշրջանը և հարկային սանդղակները, գրանցեք "
+"աշխատակիցների հայտարարագրերը։"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Set up what employees are measured on and run an appraisal cycle."
+msgstr ""
+"Սահմանեք, թե ինչով են գնահատվում աշխատակիցները, և անցկացրեք գնահատման ցիկլ։"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Set your holidays and leave types, give leave and approve a request."
+msgstr ""
+"Սահմանեք տոնական օրերը և արձակուրդի տեսակները, տրամադրեք արձակուրդ և "
+"հաստատեք հայտը։"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid ""
+"The people you manage, with their joining date, department and reporting "
+"manager. See [Employee](https://docs.frappe.io/hr/employee)."
+msgstr ""
+"Ձեր աշխատակիցները՝ աշխատանքի ընդունման ամսաթվով, ստորաբաժանումով և անմիջական"
+" ղեկավարով։ Տե՛ս [Աշխատակից](https://docs.frappe.io/hr/employee)։"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid ""
+"Track the joining tasks for a new hire and the exit tasks when someone "
+"leaves."
+msgstr ""
+"Հետևեք նոր աշխատակցի ընդունման և աշխատանքից ազատվողի դուրսգրման "
+"առաջադրանքներին։"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Department Wise Employee Count"
+msgstr "Աշխատակիցների թիվն ըստ ստորաբաժանումների"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Employees Joining (This Quarter)"
+msgstr "Ընդունված աշխատակիցներ (այս եռամսյակ)"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Employees Relieving (This Quarter)"
+msgstr "Ազատված աշխատակիցներ (այս եռամսյակ)"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Hiring Pipeline"
+msgstr "Աշխատանքի ընդունման ընթացք"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Masters"
+msgstr "Հիմնական տվյալներ"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Total Employees"
+msgstr "Ընդամենը աշխատակիցներ"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Add your employees"
+msgstr "Ավելացրեք ձեր աշխատակիցներին"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Deduct the right tax"
+msgstr "Պահեք ճիշտ հարկը"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Get to know Frappe HR"
+msgstr "Ծանոթացեք Frappe HR-ին"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Hire your first employee"
+msgstr "Ընդունեք ձեր առաջին աշխատակցին"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Manage time off"
+msgstr "Կառավարեք արձակուրդները"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Review performance"
+msgstr "Գնահատեք կատարողականը"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Run your first payroll"
+msgstr "Կատարեք առաջին աշխատավարձի հաշվարկը"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Settle employee expenses"
+msgstr "Փոխհատուցեք աշխատակիցների ծախսերը"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Track attendance and shifts"
+msgstr "Հետևեք ներկայությանը և հերթափոխերին"
+
+#. v16 onboarding / workspace sidebar label from JSON (not in upstream POT)
+msgid "Welcome and see off employees"
+msgstr "Ընդունեք և ճանապարհեք աշխատակիցներին"

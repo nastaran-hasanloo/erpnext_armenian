@@ -1,0 +1,21 @@
+name: Check translations
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  po:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install polib babel
+      - name: Rebuild app catalog and make sure it is committed
+        run: |
+          python scripts/build_locale.py
+          git diff --exit-code -I 'PO-Revision-Date' erpnext_armenian/locale/hy.po || (echo "Run: python scripts/build_locale.py and commit the result" && exit 1)
+      - name: Check placeholders, HTML tags and MO compilation
+        run: python scripts/check_po.py

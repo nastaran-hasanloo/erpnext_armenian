@@ -1,0 +1,7 @@
+.git
+.github
+docs
+translations
+logs
+**/__pycache__
+**/*.mo
